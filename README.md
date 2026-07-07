@@ -147,10 +147,3 @@ python -m auto_label download-models               # 预下载检测模型权重
 | Florence-2 报 `AttributeError` | transformers 被升级了，装回 `==4.49.0` |
 | 动作边界差零点几秒 | 精度上限 ≈ ±1/fps 秒（默认 2fps 即 ±0.5s），需求内属正常；要更细可提高 `--fps`（成本线性上涨） |
 | 动作检测报缺少 API key | `DASHSCOPE_API_KEY` 写入项目根 `.env` 或环境变量 |
-
-## 更多文档
-
-- [docs/prd.md](docs/prd.md) — 产品需求与项目结构
-- [docs/roadmap.md](docs/roadmap.md) — 版本历史与后续计划
-- [docs/tech_stack.md](docs/tech_stack.md) — 模型选型、依赖版本坑、已知限制
-- [poc/README.md](poc/README.md) — 动作检测技术选型的 POC 过程（X-CLIP 为何被淘汰）
