@@ -1,0 +1,25 @@
+{
+  "_comment": "动作 = 显示名(中文, 给 Qwen 和最终输出) + prompt_en(给 X-CLIP 的英文描述)。列表按我看抽帧猜的工序写, 请按实际工序修改。",
+  "actions": [
+    {
+      "name": "拿起产品",
+      "prompt_en": "a hand picks up a small white electronic device from the tray on the workbench"
+    },
+    {
+      "name": "贴黑垫子",
+      "prompt_en": "hands peel a small black adhesive pad and stick it onto the white electronic device"
+    },
+    {
+      "name": "扫码",
+      "prompt_en": "scanning the electronic device with a handheld barcode scanner emitting red light"
+    },
+    {
+      "name": "放下产品",
+      "prompt_en": "a hand puts the small white electronic device down onto the tray"
+    }
+  ],
+  "background_prompts_en": [
+    "an empty green workbench with a tray, no hands visible",
+    "hands resting idle on the workbench, no activity"
+  ]
+}

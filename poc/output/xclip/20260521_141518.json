@@ -1,0 +1,295 @@
+{
+  "video": "20260521_141518.mp4",
+  "duration": 275.7,
+  "source": "xclip",
+  "segments": [
+    {
+      "action": "拿起产品",
+      "start": 0.38,
+      "end": 22.88,
+      "confidence": 0.668
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 21.88,
+      "end": 27.38,
+      "confidence": 0.594
+    },
+    {
+      "action": "拿起产品",
+      "start": 26.38,
+      "end": 28.38,
+      "confidence": 0.411
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 27.38,
+      "end": 32.88,
+      "confidence": 0.49
+    },
+    {
+      "action": "拿起产品",
+      "start": 41.38,
+      "end": 45.38,
+      "confidence": 0.44
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 44.88,
+      "end": 48.88,
+      "confidence": 0.508
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 54.38,
+      "end": 57.38,
+      "confidence": 0.568
+    },
+    {
+      "action": "拿起产品",
+      "start": 56.38,
+      "end": 59.88,
+      "confidence": 0.456
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 58.38,
+      "end": 61.38,
+      "confidence": 0.427
+    },
+    {
+      "action": "放下产品",
+      "start": 61.88,
+      "end": 64.38,
+      "confidence": 0.418
+    },
+    {
+      "action": "拿起产品",
+      "start": 62.88,
+      "end": 64.88,
+      "confidence": 0.409
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 64.88,
+      "end": 68.88,
+      "confidence": 0.494
+    },
+    {
+      "action": "拿起产品",
+      "start": 68.38,
+      "end": 70.38,
+      "confidence": 0.403
+    },
+    {
+      "action": "拿起产品",
+      "start": 70.38,
+      "end": 75.88,
+      "confidence": 0.628
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 75.38,
+      "end": 80.88,
+      "confidence": 0.574
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 81.38,
+      "end": 85.38,
+      "confidence": 0.576
+    },
+    {
+      "action": "放下产品",
+      "start": 84.38,
+      "end": 87.38,
+      "confidence": 0.432
+    },
+    {
+      "action": "拿起产品",
+      "start": 90.38,
+      "end": 93.38,
+      "confidence": 0.426
+    },
+    {
+      "action": "拿起产品",
+      "start": 93.88,
+      "end": 96.38,
+      "confidence": 0.402
+    },
+    {
+      "action": "拿起产品",
+      "start": 96.88,
+      "end": 105.38,
+      "confidence": 0.611
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 104.38,
+      "end": 107.88,
+      "confidence": 0.561
+    },
+    {
+      "action": "拿起产品",
+      "start": 106.38,
+      "end": 110.88,
+      "confidence": 0.479
+    },
+    {
+      "action": "拿起产品",
+      "start": 117.38,
+      "end": 120.38,
+      "confidence": 0.465
+    },
+    {
+      "action": "拿起产品",
+      "start": 121.38,
+      "end": 125.88,
+      "confidence": 0.517
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 124.88,
+      "end": 129.88,
+      "confidence": 0.664
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 130.38,
+      "end": 133.88,
+      "confidence": 0.477
+    },
+    {
+      "action": "拿起产品",
+      "start": 133.88,
+      "end": 141.38,
+      "confidence": 0.575
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 140.38,
+      "end": 143.38,
+      "confidence": 0.434
+    },
+    {
+      "action": "扫码",
+      "start": 143.88,
+      "end": 147.38,
+      "confidence": 0.533
+    },
+    {
+      "action": "拿起产品",
+      "start": 146.38,
+      "end": 148.88,
+      "confidence": 0.439
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 149.38,
+      "end": 152.88,
+      "confidence": 0.524
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 155.88,
+      "end": 165.88,
+      "confidence": 0.654
+    },
+    {
+      "action": "拿起产品",
+      "start": 164.38,
+      "end": 183.88,
+      "confidence": 0.698
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 184.88,
+      "end": 188.38,
+      "confidence": 0.543
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 188.38,
+      "end": 200.88,
+      "confidence": 0.558
+    },
+    {
+      "action": "拿起产品",
+      "start": 200.88,
+      "end": 204.38,
+      "confidence": 0.465
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 203.38,
+      "end": 211.88,
+      "confidence": 0.649
+    },
+    {
+      "action": "拿起产品",
+      "start": 210.38,
+      "end": 228.38,
+      "confidence": 0.717
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 226.88,
+      "end": 230.38,
+      "confidence": 0.573
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 231.38,
+      "end": 236.88,
+      "confidence": 0.63
+    },
+    {
+      "action": "拿起产品",
+      "start": 236.88,
+      "end": 247.88,
+      "confidence": 0.546
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 249.88,
+      "end": 255.38,
+      "confidence": 0.643
+    },
+    {
+      "action": "拿起产品",
+      "start": 253.88,
+      "end": 257.88,
+      "confidence": 0.502
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 256.88,
+      "end": 258.88,
+      "confidence": 0.418
+    },
+    {
+      "action": "拿起产品",
+      "start": 258.38,
+      "end": 266.38,
+      "confidence": 0.584
+    },
+    {
+      "action": "放下产品",
+      "start": 265.38,
+      "end": 267.88,
+      "confidence": 0.405
+    },
+    {
+      "action": "拿起产品",
+      "start": 269.38,
+      "end": 274.38,
+      "confidence": 0.6
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 272.88,
+      "end": 275.38,
+      "confidence": 0.559
+    }
+  ]
+}

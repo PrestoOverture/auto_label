@@ -1,0 +1,25 @@
+{
+  "_comment": "动作 = 显示名(中文) + prompt_en(给 X-CLIP 的英文描述)。按抽帧内容猜的工序, 请按实际修改。",
+  "actions": [
+    {
+      "name": "拿起主机",
+      "prompt_en": "a gloved hand picks up a small device with a flip screen from the tray"
+    },
+    {
+      "name": "抬起屏幕",
+      "prompt_en": "fingers lift and open the flip screen of the small device"
+    },
+    {
+      "name": "安装垫圈",
+      "prompt_en": "fingers place small round metal washers onto the device"
+    },
+    {
+      "name": "放下主机",
+      "prompt_en": "a hand puts the small device down onto the tray"
+    }
+  ],
+  "background_prompts_en": [
+    "a tray full of small round metal parts, hands not moving",
+    "hands resting idle on the workbench, no activity"
+  ]
+}

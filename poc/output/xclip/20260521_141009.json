@@ -1,0 +1,25 @@
+{
+  "video": "20260521_141009.mp4",
+  "duration": 19.57,
+  "source": "xclip",
+  "segments": [
+    {
+      "action": "拿起产品",
+      "start": 0.38,
+      "end": 3.88,
+      "confidence": 0.556
+    },
+    {
+      "action": "扫码",
+      "start": 3.88,
+      "end": 6.38,
+      "confidence": 0.422
+    },
+    {
+      "action": "拿起产品",
+      "start": 13.88,
+      "end": 18.38,
+      "confidence": 0.502
+    }
+  ]
+}

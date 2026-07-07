@@ -1,0 +1,31 @@
+{
+  "video": "20260521_140528.mp4",
+  "duration": 19.43,
+  "source": "qwen",
+  "segments": [
+    {
+      "action": "拿起产品",
+      "start": 0.0,
+      "end": 1.5,
+      "confidence": null
+    },
+    {
+      "action": "贴黑垫子",
+      "start": 2.0,
+      "end": 11.0,
+      "confidence": null
+    },
+    {
+      "action": "扫码",
+      "start": 12.0,
+      "end": 16.0,
+      "confidence": null
+    },
+    {
+      "action": "放下产品",
+      "start": 17.5,
+      "end": 18.5,
+      "confidence": null
+    }
+  ]
+}

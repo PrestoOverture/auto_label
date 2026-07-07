@@ -1,0 +1,31 @@
+{
+  "video": "20260521_140944.mp4",
+  "duration": 22.1,
+  "source": "xclip",
+  "segments": [
+    {
+      "action": "拿起产品",
+      "start": 0.38,
+      "end": 5.38,
+      "confidence": 0.622
+    },
+    {
+      "action": "扫码",
+      "start": 6.88,
+      "end": 9.38,
+      "confidence": 0.43
+    },
+    {
+      "action": "拿起产品",
+      "start": 12.38,
+      "end": 15.38,
+      "confidence": 0.487
+    },
+    {
+      "action": "拿起产品",
+      "start": 15.88,
+      "end": 19.38,
+      "confidence": 0.44
+    }
+  ]
+}
