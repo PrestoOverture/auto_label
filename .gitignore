@@ -2,6 +2,7 @@
 .env
 .venv/
 .claude/
+docs/
 
 __pycache__/
 *.py[cod]
